@@ -1,4 +1,5 @@
-# DeepLearningResearchIntern-PuchoLifeSciencesInc
+#   Predicting Covid-19 Infected Patient Using Deep Neural Network.
+
 
 Description:
 In this project, I have developed 18 neuron based Nueal Network to predict wheather a patient has possibility to be affected by Covid-19 or not. Realtime Dataset was provided by Pucho Life Science Inc. Applied Artifitial Neural Network with Relu and Sigmoid activation fuction in 3 layes.
